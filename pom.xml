@@ -57,8 +57,6 @@
             <artifactId>maven-surefire-plugin</artifactId>
             <version>2.19</version>
         </plugin>
-	    
-	    //****** code coverage ******
 	 <plugin>
             	<groupId>org.jacoco</groupId>
             	<artifactId>jacoco-maven-plugin</artifactId>
